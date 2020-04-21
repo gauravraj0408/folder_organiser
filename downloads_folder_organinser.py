@@ -2,6 +2,7 @@
 # Website : http://gauravraj.gq/
 # Please give a credit if you use it or modify it
 # Thank You...
+# Credit : JanB0
 
 # imports:
 import os
