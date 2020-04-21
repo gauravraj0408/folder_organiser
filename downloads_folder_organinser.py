@@ -2,7 +2,8 @@
 # Website : http://gauravraj.gq/
 # Please give a credit if you use it or modify it
 # Thank You...
-# Credit : JanB0
+# Credit : JanB0 
+# profile : https://github.com/JanB0/
 
 # imports:
 import os
