@@ -6,3 +6,11 @@ Windows Download Folder Organiser according to Files.
 * Thank You
 ## Credit :
 * [JanB0] (https://github.com/JanB0/)
+## How to use :
+* Download or clone this repository
+### Using Python File :
+* open cmd and run python file
+`python downloads_folder_organiser.py`
+### Using EXE File :
+* Move "download_organiser.exe" in Downloads Folder
+`Double click and run this file`
