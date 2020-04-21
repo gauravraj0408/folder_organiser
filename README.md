@@ -5,4 +5,4 @@ Windows Download Folder Organiser according to Files.
 * Give Credit to Creator before Manking any changes.
 * Thank You
 ## Credit :
-* JanB0
+* [JanB0] (https://github.com/JanB0/)
